@@ -14,6 +14,9 @@ public class Tre_I_Rad {
     char w9;
 
     public static void main(String[] arg) {
+
+
+        /**
         char x1 = '-';
         char x2 = '-';
         char x3 = '-';
@@ -28,5 +31,6 @@ public class Tre_I_Rad {
         System.out.println("-" + "x" + "-" + "x" + "-" + "x");
         System.out.println("-" + "x" + "-" + "x" + "-" + "x");
         System.out.println("-" + "x" + "-" + "x" + "-" + "x");
+         */
     }
 }
