@@ -1,36 +1,20 @@
-/**
- * Created by scem14 on 2016-09-09.
- */
 public class Tre_I_Rad {
+    char() board;
+    public static void main(String[] args) {
 
-    char x1;
-    char x2;
-    char x3;
-    char z4;
-    char z5;
-    char z6;
-    char w7;
-    char w8;
-    char w9;
+/**Skapa ett spelfält/lägg ut en spelplan för positioner(x/o).*/
+    public static void initializeBoard() {
+        board = {'', '', '', '', '', '', '', '', ''};
+    }
+/**Gör så att programmet kan läsa ut dem drag du gör och kunna avsluta matchen när en individ har fått 3 i rad.*/
 
-    public static void main(String[] arg) {
+/**Skapa DO while loop*/
 
+/**Gör så att man kan göra ett drag och validera att det är inom spelplanen.*/
 
-        /**
-        char x1 = '-';
-        char x2 = '-';
-        char x3 = '-';
-        char z4 = '-';
-        char z5 = '-';
-        char z6 = '-';
-        char w7 = '-';
-        char w8 = '-';
-        char w9 = '-';
+/**Kolla om någon har vunnit.*/
 
-        System.out.println("_" + "x" + "|" + "z" + "|" + "w");
-        System.out.println("-" + "x" + "-" + "x" + "-" + "x");
-        System.out.println("-" + "x" + "-" + "x" + "-" + "x");
-        System.out.println("-" + "x" + "-" + "x" + "-" + "x");
-         */
+/**Lägg ut spelplanen med draget efter varje drag.*/
+
     }
 }
